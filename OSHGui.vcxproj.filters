@@ -77,9 +77,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Drawing\Direct3D10\Direct3D10GeometryBuffer.cpp">
-      <Filter>Source Files\Drawing\Direct3D10</Filter>
-    </ClCompile>
     <ClCompile Include="src\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -340,6 +337,9 @@
     </ClCompile>
     <ClCompile Include="src\Controls\TrackBar.cpp">
       <Filter>Source Files\Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Drawing\Direct3D10\Direct3D10GeometryBuffer.cpp">
+      <Filter>Source Files\Drawing\Direct3D10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
